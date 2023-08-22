@@ -1,0 +1,30 @@
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.round-image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 50%;
+    width: 170px;
+    height: 200px;
+    border: 2.5px;
+    border-color:black;
+    border-style:dotted;
+    margin-right: 150px;
+    margin-top: 15px;
+}
+
+h1 {
+    font-family: 'Kunstler Script', serif;
+    font-size: 100px;
+    font-weight: lighter;
+    align-self: center;
+}
+
+.info {
+    text-align: center;
+    font-style: oblique;
+}
